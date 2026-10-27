@@ -1,18 +1,16 @@
 <html>
 <head>
-<title>Music</title>
-<link rel="stylesheet" type="text/css" href="0002.css">
+  <title>Music</title>
+  <link rel="stylesheet" type="text/css" href="0002.css">
 </head>
-<center><h1>>MUSIC</h1></center> <br>
+  <body>
+<center><img src="90.jpg" width="300" height="300"></center> <br>
 
+  <button>(01) Bass Boosted Music</button><br><br>
+  <button>(02) Rap Songs</button><br><br>
+  <button>(03) New Songs</button><br><br>
+  <button>(04) Boot Songs</button><br><br>
 <center><img src="90.jpg"></center> <br>
-
-<ul>
-  <li><a href="https://dilansachanuthima.github.io/MDC_0003">Bass Boosted</a></li>
-  <li><a href="">Rap Songs</a></li>
-  <li><a href="">New Songs</a></li>
-  <li><a href="">Boot Songs</a></li>
-</ul>
 
 </body>
 </html>
