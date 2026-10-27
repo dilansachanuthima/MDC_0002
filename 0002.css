@@ -1,6 +1,10 @@
 img{border-radius:80px
 }
 
+h1{
+  text-shadow: 2px 2px 5px red;
+}
+
 button {
   background-color: #04AA6D;
   border: none;
