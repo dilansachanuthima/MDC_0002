@@ -1,7 +1,7 @@
 <html>
 <head>
   <title>Music</title>
-  <link rel="stylesheet" type="text/css" href="0002.css">
+ <link rel="stylesheet" type="text/css" href="0002.css">
 </head>
   <body>
 <center><img src="90.jpg" width="300" height="300"></center> <br><br>
