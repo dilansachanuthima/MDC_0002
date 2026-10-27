@@ -8,7 +8,7 @@
 
   <a href="https://dilansachanuthima.github.io/MDC_0003/"><button>(01) Bass Boosted Music</button></a><br><br>
   <button>(02) Rap Songs</button><br><br>
-  <button>(03) New Songs</button><br><br>
+  <a href="https://dilansachanuthima.github.io/MDC_0004/"><button>(03) New Songs</button></a><br><br>
   <button>(04) Boot Songs</button><br><br>
 
 </body>
