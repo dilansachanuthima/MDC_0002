@@ -6,7 +6,7 @@
   <body>
 <center><img src="90.jpg" width="300" height="300"></center> <br><br>
 
-  <button class="https://dilansachanuthima.github.io/MDC_0003/">(01) Bass Boosted Music</button><br><br>
+  <button onclick="https://dilansachanuthima.github.io/MDC_0003/">(01) Bass Boosted Music</button><br><br>
   <button>(02) Rap Songs</button><br><br>
   <button>(03) New Songs</button><br><br>
   <button>(04) Boot Songs</button><br><br>
